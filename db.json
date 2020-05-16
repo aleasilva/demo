@@ -1,9 +1,9 @@
 {
    "users": [
-    { "id": 1, "name": "Alexandre" },
-    { "id": 2, "name": "Shirley" },
-    { "id": 3, "name": "Lara" },
-    { "id": 4, "name": "Luisa" }
+    { "id": 1, "name": "Alexandre", "quantity": 10 },
+    { "id": 2, "name": "Shirley" , "quantity": 2},
+    { "id": 3, "name": "Lara" , "quantity": 2},
+    { "id": 4, "name": "Luisa", "quantity": 2 }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
