@@ -1,4 +1,10 @@
 {
+   "users": [
+    { "id": 1, "name": "Alexandre" },
+    { "id": 2, "name": "Shirley" },
+    { "id": 3, "name": "Lara" },
+    { "id": 4, "name": "Luisa" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
